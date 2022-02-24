@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<a href="https://leetcode.com/pranavrocksharma/">
-  <img align="center" src="https://leetcode.card.workers.dev/?username=pranavrocksharma&style=auto&border=1&extension=activity&font=Times%20New%20Roman" alt="leetcode" />
-</a>
-</p>
